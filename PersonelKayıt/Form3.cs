@@ -16,7 +16,7 @@ namespace PersonelKayıt
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=zahir\\SQLEXPRESS;Initial Catalog=Personel;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection("Data Source=****************************");
 
         private void Form3_Load(object sender, EventArgs e)
         {
